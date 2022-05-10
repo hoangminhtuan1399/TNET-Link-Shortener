@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TNET-Link-Shortener/static/css/main.7894daeb.css",
+    "main.js": "/TNET-Link-Shortener/static/js/main.e7236731.js",
+    "index.html": "/TNET-Link-Shortener/index.html",
+    "main.7894daeb.css.map": "/TNET-Link-Shortener/static/css/main.7894daeb.css.map",
+    "main.e7236731.js.map": "/TNET-Link-Shortener/static/js/main.e7236731.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7894daeb.css",
+    "static/js/main.e7236731.js"
+  ]
+}
